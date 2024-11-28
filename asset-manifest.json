@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yashinvestments/static/css/main.24ed3d95.css",
+    "main.js": "/yashinvestments/static/js/main.20913975.js",
+    "index.html": "/yashinvestments/index.html",
+    "main.24ed3d95.css.map": "/yashinvestments/static/css/main.24ed3d95.css.map",
+    "main.20913975.js.map": "/yashinvestments/static/js/main.20913975.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24ed3d95.css",
+    "static/js/main.20913975.js"
+  ]
+}
