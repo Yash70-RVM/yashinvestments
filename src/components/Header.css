@@ -1,0 +1,59 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: black;
+    color: gold;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  .logo{
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
+  }
+
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+
+  .nav-links a:hover{
+    padding: 0.5rem 1rem;
+    background-color: gold;
+    color: black;
+    border: none;
+    cursor: pointer;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    font-weight: bold;
+  }
+  
+  .nav-links li a {
+    text-decoration: none;
+    color: gold;
+    font-weight: bold;
+  }
+  
+  .cta-button {
+    padding: 0.5rem 1rem;
+    background-color: gold;
+    color: black;
+    border: none;
+    cursor: pointer;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    font-weight: bold;
+  }
+  
+  .cta-button:hover {
+    background-color: white;
+    color: black;
+  }
+  

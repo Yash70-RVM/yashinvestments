@@ -1,0 +1,24 @@
+.footer {
+    padding: 2rem;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .social-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .social-links li a {
+    text-decoration: none;
+    color: gold;
+  }
+  

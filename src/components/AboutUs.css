@@ -1,0 +1,11 @@
+.about-us {
+    padding: 4rem 2rem;
+    background-color: black;
+    text-align: center;
+  }
+  
+  .about-us p {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  

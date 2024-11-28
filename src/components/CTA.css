@@ -1,0 +1,20 @@
+.cta {
+    padding: 4rem 2rem;
+    background-color: black;
+    text-align: center;
+    color: white;
+  }
+  
+  .cta-button {
+    padding: 1rem 2rem;
+    background-color: gold;
+    color: black;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .cta-button:hover {
+    background-color: white;
+    color: black;
+  }
+  

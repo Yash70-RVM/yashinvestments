@@ -1,0 +1,29 @@
+.hero {
+    height: 100vh;
+    background: url('https://i.ytimg.com/vi/TU6fpz7lbOA/maxresdefault.jpg') no-repeat center center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  
+  .hero-content {
+    text-align: center;
+    color: white;
+  }
+  
+  .cta-button {
+    margin-top: 1rem;
+    padding: 1rem 2rem;
+    background-color: gold;
+    color: black;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .cta-button:hover {
+    background-color: white;
+    color: black;
+  }
+  

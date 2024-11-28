@@ -1,0 +1,22 @@
+.reviews {
+    padding: 4rem 2rem;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  
+  .reviews-carousel {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+  }
+  
+  .review-card {
+    background-color: white;
+    color: black;
+    padding: 1.5rem;
+    border-radius: 10px;
+    width: 300px;
+    text-align: left;
+  }
+  

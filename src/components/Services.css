@@ -1,0 +1,36 @@
+.services {
+    padding: 4rem 2rem;
+    background-color: black;
+    text-align: center;
+  }
+  
+  .service-cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+  
+  .service-card {
+    background-color: white;
+    color: black;
+    padding: 2rem;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+  }
+  
+  .learn-more {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: gold;
+    color: black;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .learn-more:hover {
+    background-color: black;
+    color: gold;
+  }
+  
